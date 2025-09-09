@@ -41,8 +41,11 @@
 
 4.Project structure
 ├── AI_for_Comprative_price_analysis_in_Interior_design.ipynb       # main code
+
 ├── interior_design_prices.csv          # dataset
+
 ├── all_category_forecast_next12m.csv   # forecast output (generated)
+
 ├── README.md                           # documentation
 
 5.Future scope:
