@@ -21,7 +21,7 @@ AI project for market trend analysis in Interior Design
 4. Forecasting with Prophet
 5. Visualization of results
 
-#Tools & Libraries
+#Tools & Libraries:
 - Python, Google Colab
 - pandas, matplotlib, seaborn
 - prophet
