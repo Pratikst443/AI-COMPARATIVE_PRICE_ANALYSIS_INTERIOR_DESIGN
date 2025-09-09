@@ -35,19 +35,16 @@
 
 2.Open AI_for_Comprative_price_analysis_in_Interior_design.ipynb in Google Colab or Jupyter Notebook.
 
-2.Upload interior_design_prices.csv in the same runtime folder.
+3.Upload interior_design_prices.csv in the same runtime folder.
 
-3.Run all cells top-to-bottom
+4.Run all cells top-to-bottom
 
-4.Project structure
+5.Project structure:
 ├── AI_for_Comprative_price_analysis_in_Interior_design.ipynb       # main code
-
 ├── interior_design_prices.csv          # dataset
-
 ├── all_category_forecast_next12m.csv   # forecast output (generated)
-
 ├── README.md                           # documentation
 
-5.Future scope:
+6.Future scope:
 - Use of real world datasets
 - Build dashboard
