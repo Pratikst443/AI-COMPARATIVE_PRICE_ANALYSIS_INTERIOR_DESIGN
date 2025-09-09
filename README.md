@@ -47,4 +47,4 @@
 
 6.Future scope:
 - Use of real world datasets
-- Build dashboard
+- Build interactive dashboard
